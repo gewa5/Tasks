@@ -1,0 +1,25 @@
+body{
+    background-color: #068bd8;
+      
+}
+section{
+    background-color: white;
+    padding: 1rem;
+    margin-left:15rem;
+    width: 45rem;
+    height: 30rem;
+      
+}
+.wid{
+    width: 36%;
+    padding: .5rem;
+}
+.lef{
+    margin-left:20rem;
+
+    
+}
+.in{
+    width: 90%;
+    padding: .5rem;
+}
